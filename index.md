@@ -1,20 +1,22 @@
 痒い所に手が届くショートカットなどを作っています。
 
-外部ショートカットの使用方法などはご自分で調べてください。
+外部ショートカットの使用方法などは[ここ](https://support.apple.com/ja-jp/guide/shortcuts/apdfeb05586f/ios)を見てください。
+
+学校のiPadだとiPadOS14.4以上が必要っぽいです。
 
 ## 一覧
 
 ### ポータルサイト自動ログイン
 
-https://www.icloud.com/shortcuts/bb7681bc3fdb4ac7b1d398ad1dca6087
+[追加する](https://www.icloud.com/shortcuts/bb7681bc3fdb4ac7b1d398ad1dca6087)
 
 最初に聞かれるIDとパスワードは外部には送信されない&暗号化して送信されますので安心してください。
 
 ### 健康観察の日付自動入力
 
-https://www.icloud.com/shortcuts/ca27470fce634fe2b54bed3939c93e88
+[追加する](https://www.icloud.com/shortcuts/ca27470fce634fe2b54bed3939c93e88)
 
-面倒くさい日付入力を自動でやってくれます。
+健康観察の面倒くさい日付入力を自動でやってくれます。
 
 2021年度からは上記のものは多分使えなくなります。
 
